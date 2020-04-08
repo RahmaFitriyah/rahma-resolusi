@@ -2,3 +2,5 @@ RAHMA RESOLUSI
 - konsisten membuat project
 - membuat konten youtube yang bermanfaat
 - rajin belajar
+- membuat brach
+- membuat fork
