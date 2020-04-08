@@ -1,1 +1,1 @@
-
+rahma-resolusi
