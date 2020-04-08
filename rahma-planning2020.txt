@@ -6,6 +6,7 @@ Planning pada tahun 2020
   * turn in tugas tepat waktu
     # no turn late / missing
 - Rajin Ngoding
+  * Ngedit
 - No Revisi
 - No CO
 - Lancar
