@@ -3,10 +3,8 @@ Planning pada tahun 2020
 - Ips 3,3
 - No Kompen
   * gak terlambat masuk kelas
+    # stand by didepan kelas
   * turn in tugas tepat waktu
-    # no turn late / missing
-- Rajin Ngoding
-  * Ngedit
 - No Revisi
 - No CO
 - Lancar
